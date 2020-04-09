@@ -47,4 +47,4 @@ The format of the expected combination parameter is one of the following:
 * straight_A
 * yams_A
 
-Author **Corentin COUTRET-ROZET** and **PATRICIA MONFA-MATAS**
+Author [**Corentin COUTRET-ROZET**](https://github.com/sheiiva) and [**PATRICIA MONFA-MATAS**](https://github.com/patumm)
