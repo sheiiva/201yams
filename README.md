@@ -25,17 +25,18 @@ A combination is defined by its **kind** (pair, three-of-a-kind, four-of-a-kind,
 ## USAGE:
 
 ```
->> ./201yams d1 d2 d3 d4 d5 c
+>> ./201yams -h
+USAGE
+	./201yams d1 d2 d3 d4 d5 c
+
+DESCRIPTION
+	d1	value of the first die (0 if not thrown)
+	d2	value of the second die (0 if not thrown)
+	d3	value of the third die (0 if not thrown)
+	d4	value of the fourth die (0 if not thrown)
+	d5	value of the fifth die (0 if not thrown)
+	c	expected combination
 ```
-
-#### DESCRIPTION
-
-d1      value of the first die (0 if not thrown)
-d2      value of the second die (0 if not thrown)
-d3      value of the third die (0 if not thrown)
-d4      value of the fourth die (0 if not thrown)
-d5      value of the fifth die (0 if not thrown)
-c       expected combination
 
 ##### WARNING
 
@@ -47,4 +48,4 @@ The format of the expected combination parameter is one of the following:
 * straight_A
 * yams_A
 
-Author **Corentin COUTRET-ROZET** and **PATRICIA MONFA-MATAS**
+Author [**Corentin COUTRET-ROZET**](https://github.com/sheiiva) and [**PATRICIA MONFA-MATAS**](https://github.com/patumm)
